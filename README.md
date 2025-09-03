@@ -1,6 +1,9 @@
 # Optical-Cloaking-and-Digital-Reconstuction-Simulation
 # Abstract
-This project presents a computational framework for simulating phase-based optical cloaking and exploring digital reconstruction techniques in wave optics. The simulation models a cloaking device as an annular phase-shifting region embedded in a 2D wave field, designed to obscure a square object by manipulating the phase of incident light. By applying a spatially varying phase mask derived from refractive index modulation, the object becomes visually undetectable in the resulting intensity distribution.To counteract the cloaking effect, the system implements both direct and iterative reconstruction algorithms that attempt to recover the original object from the altered wavefront. The iterative method enforces physical constraints such as positivity and spatial support, refining the reconstruction through successive approximations. An interactive interface allows users to dynamically improve the reconstruction and visualize error metrics in real time. This simulation bridges theoretical optics and computational imaging, offering insights into inverse problems, phase retrieval, and wavefront engineering. It demonstrates the feasibility of digitally reversing optical cloaking effects and provides a platform for exploring advanced concepts in holography, metamaterials, and optical signal processing. The project reflects a strong foundation in numerical modeling, algorithmic design, and scientific visualization—skills essential for graduate-level research in applied physics and photonics.
+This project presents a computational framework for simulating phase-based optical cloaking and exploring digital reconstruction techniques in wave optics. The simulation models a cloaking device as an annular phase-shifting region embedded in a 2D wave field, designed to obscure a square object by manipulating the phase of incident light. By applying a spatially varying phase mask derived from refractive index modulation, the object becomes visually undetectable in the resulting intensity distribution.To counteract the cloaking effect, the system implements both direct and iterative reconstruction algorithms that attempt to recover the original object from the altered wavefront. The iterative method enforces physical constraints such as positivity and spatial support, refining the reconstruction through successive approximations. An interactive interface allows users to dynamically improve the reconstruction and visualize error metrics in real time. This simulation bridges theoretical optics and computational imaging, offering insights into inverse problems, phase retrieval, and wavefront engineering. It demonstrates the feasibility of digitally reversing optical cloaking effects and provides a platform for exploring advanced concepts in holography, metamaterials, and optical signal processing. The project reflects a strong foundation in numerical modeling, algorithmic design, and scientific visualization kills essential for graduate-level research in applied physics and photonics.
+
+![](figure.png)
+
 # 🧱 Key Components
 1. Object and Cloak Generation
 • 	: Generates a square object in a 2D grid.
@@ -59,7 +62,7 @@ This project demonstrates core competencies in:
 - Bridging physical theory with computational implementation
 
 # 👤 Author
-Developed by Alhassan, aspiring researcher in computational imaging, photonics, and physics or applied physics.
+Developed by Alhassan  Kpahambang Fuseini, aspiring researcher in computational imaging, photonics, and physics or applied physics.
 
 #  License
 This project is licensed under the MIT License. Feel free to use, modify, and share with attribution.
